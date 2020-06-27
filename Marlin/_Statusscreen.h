@@ -21,8 +21,6 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Anet/A8"
-
 /**
  * Custom Status Screen bitmap
  *
@@ -30,7 +28,7 @@
  * and enable CUSTOM_STATUS_SCREEN_IMAGE in Configuration.h.
  *
  * Use the Marlin Bitmap Converter to make your own:
- * https://marlinfw.org/tools/u8glib/converter.html
+ * http://marlinfw.org/tools/u8glib/converter.html
  */
 
 //
